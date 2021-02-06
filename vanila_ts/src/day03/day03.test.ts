@@ -1,5 +1,4 @@
 import assert from 'assert';
-import chalk from 'chalk';
 import { FileReader } from '../shared/FileReader';
 import { Logger } from '../shared/TestUtility';
 import { executionDay3_1, executionDay3_2 } from './day03';
